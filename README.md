@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:185FA5&height=180&section=header&text=Viraj%20Rank&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Economics%20%7C%20Data%20Analytics%20%7C%20Econometrics&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:185FA5&height=180&section=header&text=Viraj%20Rank&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Economics%20%7C%20Data%20Science%20%7C%20Econometrics&descAlignY=58&descSize=16&animation=fadeIn" />
 
 </div>
 
