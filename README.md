@@ -26,7 +26,16 @@
 
 **Languages & Tools**
 
-`Python` `R` `SQL` `STATA` `Power BI` `Excel`
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![STATA](https://img.shields.io/badge/STATA-1A5A7A?logoColor=white)](https://www.stata.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+[![HDFS](https://img.shields.io/badge/HDFS-66CCFF?logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/)
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)](https://spark.apache.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![SPSS](https://img.shields.io/badge/SPSS-052FAD?logo=ibm&logoColor=white)](https://www.ibm.com/products/spss-statistics)
 
 **Analytics**
 
@@ -35,67 +44,6 @@
 **Modelling**
 
 `Econometrics` `Machine Learning` `Predictive Modelling`
-
----
-
-## Featured Projects
-
-### 🏭 NALCO — Commodity & Revenue Analysis
-
-**Python · Econometrics · XGBoost**
-
-- Analyzed the relationship between **global aluminium prices and export revenue**.
-- Applied **OLS, Cointegration & ECM** for econometric analysis.
-- Developed an **XGBoost forecasting framework** for aluminium prices.
-
----
-
-### 🏦 RBI Monetary Policy & Inflation Analysis
-
-**Python · OLS · Time Series**
-
-- Analyzed the relationship between **RBI repo rate and inflation** using RBI DBIE data.
-- Applied **lagged OLS regression** to study monetary policy transmission.
-- Identified statistically significant policy-inflation relationships.
-
----
-
-### 🏗️ Cement Industry Data Mining
-
-**Orange · Regression · Random Forest · CMIE**
-
-- Analyzed **UltraTech and Ambuja Cement** using production, capacity utilization and sales data.
-- Compared **Linear Regression and Random Forest** using R², RMSE and MAE.
-- Evaluated operational factors influencing **sales value**.
-
----
-
-### 📊 Amazon Sales Analysis
-
-**Power BI · Data Visualization · Business Analytics**
-
-- Built an interactive **Power BI dashboard** for sales performance analysis.
-- Used KPIs, trends and filters to support **business decision-making**.
-
----
-
-### 🌍 Cross-Country Econometric Analysis
-
-**STATA · Econometrics · World Bank**
-
-- Built a **68-country dataset** using World Bank indicators.
-- Applied econometric modelling to study relationships between economic and institutional variables.
-- Performed data cleaning, variable construction and robustness checks.
-
----
-
-### 📈 Economic Growth Modelling
-
-**Python · Econometrics · Macroeconomic Data**
-
-- Analyzed South Korea's economic growth using macroeconomic time-series data.
-- Estimated **Cobb–Douglas and Barro models**.
-- Applied **Solow–Swan and RCK models** to study capital dynamics and convergence.
 
 ---
 
