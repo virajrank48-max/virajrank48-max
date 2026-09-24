@@ -15,10 +15,7 @@
 
 ## About Me
 
-- 🎓 M.Sc. Economics (Data Analytics), Expected 2027
-- 📊 Interested in **Data Analytics, Econometrics & Quantitative Research**
-- 💻 Python, R, SQL, STATA & Power BI
-- 📈 Statistical Analysis, Predictive Modelling & Data Visualization
+I am a MSc Economics (Data Analytics) student with hands-on experience in econometrics, big-data processing, predictive modelling, and machine learning. Skilled in Python, R, SQL, Apache Spark, HDFS, and statistical modelling, with a focus on translating financial and economic data into actionable business insights.
 
 ---
 
