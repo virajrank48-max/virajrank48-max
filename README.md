@@ -47,27 +47,6 @@
 
 ---
 
-## Experience
-
-### National Aluminium Company Limited (NALCO)
-
-**Summer Intern — Marketing Department | 4 May - 3 July, 2026**
-
-- Econometric analysis of **aluminium prices and export revenue**.
-- Forecasting using **XGBoost**.
-- Analysis of financial and commodity datasets for business insights.
-
-### Narayani Trust, Vadodara
-
-**Field Data & Project Intern | 1 May - 10 June 2024**
-
-- Collected and validated data from **500 households across 10 villages**.
-- Supported questionnaire design, data collection and program evaluation.
-
----
-
-## Connect
-
 [LinkedIn](https://www.linkedin.com/in/viraj-rank-1a43b4267/) ·
 [GitHub](https://github.com/virajrank48-max) ·
 [Email](mailto:virajrank48@gmail.com)
